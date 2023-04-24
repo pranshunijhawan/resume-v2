@@ -297,7 +297,7 @@ Error generating stack: `+o.message+`
     display: flex;
     align-items: center;
 `,za=V.div`
-    width: 10rem;
+    width: 11rem;
     height: ${({theme:e})=>e.common.spacing.space025};
     background-color: ${({theme:e})=>e.common.firstColor};
 `,Zh=V.div`
