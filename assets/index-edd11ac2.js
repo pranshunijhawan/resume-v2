@@ -382,7 +382,7 @@ Error generating stack: `+i.message+`
     align-items: center;
 `,fm=L.p`
     font-size: ${({theme:e})=>e.common.baseFont.smallFont};
-    font-weight: ${({theme:e})=>e.common.fontWeight.medium};
+    font-weight: 800;
     color: ${({theme:e})=>e.common.firstColor};
     margin-top: ${({theme:e})=>e.common.spacing.space05};
 `,dm=L.p`
