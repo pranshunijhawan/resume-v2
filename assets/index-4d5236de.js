@@ -308,6 +308,7 @@ Error generating stack: `+i.message+`
     font-size: ${({theme:e})=>e.common.baseFont.smallerFont};
     color: ${({theme:e})=>e.common.skillColor};
     border-radius: ${({theme:e})=>e.common.spacing.space025};
+    line-height: 1.25rem;
 `,Y0=L.div`
     display: grid;
     grid-template-columns: 1fr 1fr;
