@@ -303,7 +303,7 @@ Error generating stack: `+i.message+`
     height: ${({theme:e})=>e.common.spacing.space025};
     background-color: ${({theme:e})=>e.common.firstColor};
 `;const G0=L.div`
-    margin-top: ${({theme:e})=>e.common.spacing.space10};
+    margin-top: ${({theme:e})=>e.common.spacing.space125};
     padding: 0.5rem 1rem 0.5rem 1rem;
     background-color: ${({theme:e})=>e.common.firstColor};
     font-size: ${({theme:e})=>e.common.baseFont.smallerFont};
