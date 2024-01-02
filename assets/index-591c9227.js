@@ -176,12 +176,12 @@ Error generating stack: `+i.message+`
                 {
                   "title": "Senior Software Engineer 2",
                   "subTitle": "McKinsey & Company",
-                  "date": "December 2023 - Present"
+                  "date": "January 2024 - Present"
                 },
                 {
                   "title": "Senior Engineer",
                   "subTitle": "McKinsey & Company",
-                  "date": "March 2022 - November 2023",
+                  "date": "March 2022 - December 2023",
                   "rolesAndResponsibilities": {
                     "details": [
                       "Drive the design and development of innovative Marketing & Sales products for global Retail and CPG clients, focusing on Enterprise Pricing Strategy and Promotion Optimization.",
