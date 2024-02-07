@@ -186,8 +186,7 @@ Error generating stack: `+i.message+`
                       "Leading a team of 28 Engineers, comprising 5 tech leads and 23 developers ranging from Junior to Senior levels.",
                       "Engaging in diverse tuning exercises, including Performance Benchmarking, Cost Optimisation (both in team and software infrastructure), and initiatives such as System Re-Design and Re-Architectures."
                     ]
-                  },
-                  "divider": true
+                  }
                 },
                 {
                   "title": "Senior Engineer",
