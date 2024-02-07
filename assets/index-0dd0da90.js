@@ -120,13 +120,13 @@ Error generating stack: `+i.message+`
             },
             "certifications": [
                 {
-                    "source": "https://www.pranshunijhawan.dev/static/img/azure-data-engineer-associate.png",
+                    "source": "https://learn.microsoft.com/en-us/users/PranshuNijhawan-8334/credentials/E874A171D923B2A0",
                     "height": 150,
                     "width": 150,
                     "href": "https://www.pranshunijhawan.dev/static/pdf/Microsoft Certified - Azure Data Engineer Associate.pdf"
                 },
                 {
-                    "source": "https://www.pranshunijhawan.dev/static/img/azure-developer-associate.png",
+                    "source": "https://learn.microsoft.com/en-us/users/pranshunijhawan-8334/credentials/d0e6186a5d8110bb",
                     "height": 150,
                     "width": 150,
                     "href": "https://www.pranshunijhawan.dev/static/pdf/Microsoft Azure Certified Developer - Associate.pdf"
