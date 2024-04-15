@@ -106,7 +106,7 @@ Error generating stack: `+i.message+`
             },
             "content": {
                 "name": "Pranshu Nijhawan",
-                "designation": "Full Stack Developer & Cloud SME",
+                "designation": "Technical Architect & Cloud SME",
                 "website": "https://www.pranshunijhawan.dev/",
                 "phone": "+91-9999966272",
                 "email": "mail@pranshunijhawan.dev",
@@ -186,7 +186,8 @@ Error generating stack: `+i.message+`
                       "Leading a team of 28 Engineers, comprising 5 tech leads and 23 developers ranging from Junior to Senior levels.",
                       "Engaging in diverse tuning exercises, including Performance Benchmarking, Cost Optimisation (both in team and software infrastructure), and initiatives such as System Re-Design and Re-Architectures."
                     ]
-                  }
+                  },
+                  "divider": false
                 },
                 {
                   "title": "Senior Engineer",
